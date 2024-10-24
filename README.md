@@ -1,9 +1,7 @@
 # Funyaking the Hiwassee
-<!DOCTYPE html>
 <html>
 
   <head>
-    <title>Funyaking the Hiwassee</title>
 
     <style>
         body {
